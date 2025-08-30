@@ -48,9 +48,7 @@ import {
   PlayArrow,
   Close,
   Login,
-  PersonAdd,
-  Calendar,
-  Announcement
+  PersonAdd
 } from '@mui/icons-material';
 
 const SonnetModelSchool = () => {
